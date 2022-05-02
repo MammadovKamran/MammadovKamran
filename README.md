@@ -73,7 +73,7 @@ Here are some ideas to get you started:
   
   ## My Contribution snake
   
-![Contribution snake example](https://github.com/<MammadovKamran>/<MammadovKamran>/blob/output/github-contribution-grid-snake.svg)</center>
+![Contribution snake example](https://github.com/MammadovKamran/MammadovKamran/blob/output/github-contribution-grid-snake.svg)</center>
 </p>
   
 
