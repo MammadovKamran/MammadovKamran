@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=650&lines=Hi+l+am+Kamran+Mammedov+reside+in+Azerbaijan%2FBaku;Junior+React.js+%26%26+Redux+toolkit+front+end+developer;Passionate+about+coding+and+alghoritms;Hungry+for+Learning+new+techniques)](https://git.io/typing-svg)
