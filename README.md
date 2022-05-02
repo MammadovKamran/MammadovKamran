@@ -18,8 +18,12 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=650&height=120&lines=Hi+l+am+Kamran+Mammedov+reside+in+Azerbaijan%2FBaku;Junior+React.js+%26%26+Redux+toolkit+front+end+developer;Passionate+about+coding+and+alghoritms;Hungry+for+Learning+new+techniques)](https://git.io/typing-svg)
 
+# Hi there, I'm Kamran - Mammedov [Bgstatic][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
+
+<br />
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
