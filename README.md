@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
   <p align="center">
-  <img src="https://github.com/MammadovKamran/MammadovKamran/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/MammadovKamran/MammadovKamran/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 
