@@ -116,6 +116,6 @@ Here are some ideas to get you started:
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
  ## My Contribution snake
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![](https://github.com/MammadovKamran/MammadovKamran/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 
