@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=562&height=120&lines=Hi+l+am+Kamran+Mammadov+reside+in+Azerbaijan%2FBaku;Junior+React.js+%26%26+Redux+toolkit+front+end+developer;Passionate+about+coding+and+alghoritms;Hungry+for+Learning+new+techniques)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=462&height=120&lines=Hi+l+am+Kamran+Mammadov+reside+in+Azerbaijan%2FBaku;Junior+React.js+%26%26+Redux+toolkit+front+end+developer;Passionate+about+coding+and+alghoritms;Hungry+for+Learning+new+techniques)](https://git.io/typing-svg)
 <a href="https://app.daily.dev/MammadovKamran"><img src="https://api.daily.dev/devcards/8bebdf0fa0db4e8e864257ff510ef3ff.png?r=xxf" width="400" alt="Kamran's Dev Card"/></a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
