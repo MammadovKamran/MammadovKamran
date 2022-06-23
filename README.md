@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-
+<a href="https://app.daily.dev/MammadovKamran"><img src="https://api.daily.dev/devcards/8bebdf0fa0db4e8e864257ff510ef3ff.png?r=xxf" width="400" alt="Kamran's Dev Card"/></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
