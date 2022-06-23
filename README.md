@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=650&height=120&lines=Hi+l+am+Kamran+Mammadov+reside+in+Azerbaijan%2FBaku;Junior+React.js+%26%26+Redux+toolkit+front+end+developer;Passionate+about+coding+and+alghoritms;Hungry+for+Learning+new+techniques)](https://git.io/typing-svg)
-
+<a href="https://app.daily.dev/MammadovKamran"><img src="https://api.daily.dev/devcards/8bebdf0fa0db4e8e864257ff510ef3ff.png?r=xxf" width="400" alt="Kamran's Dev Card"/></a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-# Hi there, I'm Kamran - Mammadov <img align="right" width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hi there, I'm Kamran - Mammadov <img align="right" width="10px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-<a href="https://app.daily.dev/MammadovKamran"><img src="https://api.daily.dev/devcards/8bebdf0fa0db4e8e864257ff510ef3ff.png?r=xxf" width="400" alt="Kamran's Dev Card"/></a>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
